@@ -7,7 +7,7 @@
                  [ring-server "0.3.1"]
                  [postgresql/postgresql "9.1-901.jdbc4"]
                  [org.clojure/java.jdbc "0.3.7"]
-                 [clj-pdf "1.11.6"]
+                 [clj-pdf "2.0.9"]
                  [environ "1.0.0"]
                  [migratus "0.8.1"]
                  [heroku-database-url-to-jdbc "0.2.2"]]
